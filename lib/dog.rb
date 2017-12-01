@@ -18,7 +18,3 @@ end
 
 end
 
-Kyle = Dog.new("Kyle")
-
-puts kyle.name
-
